@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">DeckBuilder</string>
+
+
+    <!-- PLAY  -->
+    <integer name="max_deck_size">300</integer>
+    <integer name="max_deck_size_tutorial">150</integer>
+    <integer name="max_unit_count">4</integer>
+
+    <integer name="level_one_next">10</integer>
+    <integer name="level_two_next">20</integer>
+    <integer name="level_three_next">80</integer>
+    <integer name="level_four_next">400</integer>
+    <integer name="level_five_next">9999</integer>
+
+    <integer name="start_of_small">1</integer>
+    <integer name="start_of_medium">2</integer>
+    <integer name="start_of_large">3</integer>
+
+    <integer name="number_of_body">3</integer>
+    <integer name="number_of_armor">3</integer>
+    <integer name="number_of_weapon">3</integer>
+
+    <string name="body_01_name"> bd_A</string>
+    <integer name="body_01_size">10</integer>
+    <integer name="body_01_strength">8</integer>
+    <integer name="body_01_health">150</integer>
+    <integer name="body_01_delay">-10</integer>
+
+    <string name="body_02_name"> bd_B</string>
+    <integer name="body_02_size">10</integer>
+    <integer name="body_02_strength">8</integer>
+    <integer name="body_02_health">150</integer>
+    <integer name="body_02_defense">3</integer>
+
+    <string name="body_03_name"> bd_C</string>
+    <integer name="body_03_size">10</integer>
+    <integer name="body_03_strength">8</integer>
+    <integer name="body_03_health">150</integer>
+
+
+    <string name="armor_01_name"> am_A</string>
+    <integer name="armor_01_size">15</integer>
+    <integer name="armor_01_weight">4</integer>
+    <integer name="armor_01_health">100</integer>
+    <integer name="armor_01_defense">10</integer>
+
+    <string name="armor_02_name"> am_B</string>
+    <integer name="armor_02_size">15</integer>
+    <integer name="armor_02_weight">4</integer>
+    <integer name="armor_02_health">200</integer>
+    <integer name="armor_02_defense">10</integer>
+
+    <string name="armor_03_name"> am_C</string>
+    <integer name="armor_03_size">15</integer>
+    <integer name="armor_03_weight">4</integer>
+    <integer name="armor_03_health">300</integer>
+    <integer name="armor_03_defense">10</integer>
+
+
+    <string name="weapon_01_name"> wp_A</string>
+    <integer name="weapon_01_size">10</integer>
+    <integer name="weapon_01_weight">3</integer>
+    <integer name="weapon_01_attack">10</integer>
+    <integer name="weapon_01_delay">150</integer>
+    <bool name="weapon_01_swift">false</bool>
+
+    <string name="weapon_02_name"> wp_B</string>
+    <integer name="weapon_02_size">10</integer>
+    <integer name="weapon_02_weight">3</integer>
+    <integer name="weapon_02_attack">10</integer>
+    <integer name="weapon_02_delay">150</integer>
+    <bool name="weapon_02_swift">false</bool>
+
+    <string name="weapon_03_name"> wp_C</string>
+    <integer name="weapon_03_size">10</integer>
+    <integer name="weapon_03_weight">3</integer>
+    <integer name="weapon_03_attack">10</integer>
+    <integer name="weapon_03_delay">150</integer>
+    <bool name="weapon_03_swift">true</bool>
+
+</resources>
